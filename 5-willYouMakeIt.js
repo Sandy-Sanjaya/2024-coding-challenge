@@ -12,4 +12,4 @@
 // };
 
 const zeroFuel = (d, m, f) => d <= m * f; 
-console.log(zeroFuel(200, 50, 3)); 
+console.log(zeroFuel(200, 50, 5)); 
