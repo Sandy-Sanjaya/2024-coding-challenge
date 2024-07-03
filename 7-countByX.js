@@ -1,6 +1,6 @@
 // Hari ketujuh 2024 coding challange
 // Count By X 
-// https://www.codewars.com/kata/5556282156230d0e5e000089/train/javascript
+// https://www.codewars.com/kata/5513795bd3fafb56c200049e
 
 // function countBy(x, n) {
 //     let z = [];
